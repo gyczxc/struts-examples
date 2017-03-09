@@ -1,0 +1,11 @@
+echo "# HelloWorle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:gyczxc/HelloWorle.git
+git push -u origin masterecho "# HelloWorle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:gyczxc/HelloWorle.git
+git push -u origin master
